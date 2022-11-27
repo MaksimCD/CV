@@ -16,12 +16,12 @@ body {
   margin: 40px 0 20px 0;
   display: flex;
 
-  width: 320px;
+  width: 555px;
   column-gap: 20px;
   row-gap: 10px;
   border-radius: 20px;
   padding: 20px;
-  background-color: #960505;
+  background-color: #3ba26d;
 }
 
 .header__textContainer {
@@ -47,7 +47,7 @@ body {
 }
 
 .header__subtitle {
-  color: #ffffff;
+  color: #3d1111;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
@@ -67,7 +67,7 @@ body {
 
 .links__container {
   list-style-type: none;
-  background: #960505;
+  background: #d5078d;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
